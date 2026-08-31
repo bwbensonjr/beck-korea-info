@@ -21,7 +21,7 @@ story.
 
 The Korean government's own record of the award is reproduced, in
 translation and in the Korean original, in
-[merit-record.md](merit-record.md).
+[Merit Record](merit-record.md).
 
 | | |
 | --- | --- |
@@ -59,7 +59,7 @@ Korea annual conference until 1908, then returned in May 1911 as the
 American Bible Society's general secretary for Korea, a post he resigned
 in December 1919.
 
-[research-notes.md](research-notes.md) collects supporting context, the
+[Research Notes](research-notes.md) collects supporting context, the
 list of the other nine foreign recipients honored in 2015, the points
 where the broadcast and the official citation differ, and archival leads
 for further work.
