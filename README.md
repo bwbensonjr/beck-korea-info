@@ -1,6 +1,6 @@
 # Stephen Ambrose Beck - National Medal
 
-![Stephen Ambrose Beck](media/Stephen-Ambrose-Beck.jpeg | width=200)
+<img src=media/Stephen-Ambrose-Beck.jpeg" width="200"/>
 
 In August of 2026 researchers from the Korean broadcaster MBC (Munhwa
 Broadcasting Corporation) contacted Brent Benson Sr. and Lois Hodik as
