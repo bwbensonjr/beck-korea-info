@@ -1,5 +1,7 @@
 # Stephen Ambrose Beck - National Medal
 
+![Stephen Ambrose Beck](media/Stephen-Ambrose-Beck.jpeg)
+
 In August of 2026 researchers from the Korean broadcaster MBC (Munhwa
 Broadcasting Corporation) contacted Brent Benson Sr. and Lois Hodik as
 to whether they were children of Katherine Beck Benson and
