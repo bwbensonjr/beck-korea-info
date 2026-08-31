@@ -1,6 +1,17 @@
 # Beck Korea Information 
 
-Information about Stephen Beck and families support for Korean independence
+In August of 2026 researchers from the Korean news agency MBC
+contacted Brent Benson Sr. and Lois Hodik as to whether they were
+children of Katherine Beck Benson and grandchildren of Stephen Ambrose
+Beck. Stephen Beck had been awarded an Order of Merit medal in 2015
+for his support and dedication to the Korean independence movement
+while Korea was under Japanese control in the early 20th century.
+
+They confirmed that they were descendents of Stephen Beck and provided
+some photos and documentation of their mother's memories of smuggling
+documents describing the situation in Korea back to the United
+States. Lois was subsequently interviewed for a televised MBC news
+story.
 
 ## Korean Ministry of Patriots and Veteran Affairs 
 
