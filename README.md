@@ -75,7 +75,7 @@ for further work.
 <img src="media/mbc-stephen-beck-screenshot.png" width="400"/>
 
 - Korean news site: [Exclusive: MBC Finds Another Descendant of a Foreign Independence Patriot Whose Descendants Were "Unknown" - 4 of 8](https://imnews.imbc.com/replay/2026/nwdesk/article/6847563_37004.html) (2026-08-26). Korean headline: [단독] MBC, '후손 미상' 외국인 유공자 후손 또 찾아‥8명 중 4명
-- YouTube: [](https://www.youtube.com/watch?v=UrNSWhHhbgg)
+- [YouTube video](https://www.youtube.com/watch?v=UrNSWhHhbgg) (missing Lois Hodik's audio)
 - [Video transcript in English](news-story-transcript.md)
 
 ### Related MBC coverage in the same series
