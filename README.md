@@ -1,4 +1,4 @@
-# Beck Korea Information
+# Stephen Ambrose Beck - National Medal
 
 In August of 2026 researchers from the Korean broadcaster MBC (Munhwa
 Broadcasting Corporation) contacted Brent Benson Sr. and Lois Hodik as
