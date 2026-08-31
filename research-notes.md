@@ -96,19 +96,20 @@ within Korea or requested from the Ministry directly.
 
 These are worth reconciling before the family submits documentation.
 
-1. **Who photographed Jeam-ri.** The MBC broadcast says Beck "secretly took
-   photographs of the tragedy back to the U.S." The official record says he
-   accompanied the British consul, foreign correspondents and missionaries to
-   the site in April 1919, and that in July 1919 he exhibited photographs of
-   the incident in the United States. It does not say he was the photographer.
-   The best-known Jeam-ri photographs are generally credited to the Canadian
-   missionary Frank W. Schofield. Whether Beck took his own images, carried
-   Schofield's, or both, is an open question.
+1. **Who photographed Jeam-ri.** Not actually a conflict: the Korean broadcast
+   says Beck 참사 사진을 몰래 미국으로 가져가 - secretly *carried* photographs
+   of the atrocity to the United States. An earlier English rendering of the
+   transcript read "secretly took photographs of the tragedy back to the U.S.,"
+   which invited the reading that he was the photographer; that has been
+   corrected. Neither the broadcast nor the official citation says who took the
+   pictures. The best-known Jeam-ri photographs are generally credited to the
+   Canadian missionary Frank W. Schofield, so whose images Beck exhibited in
+   Miami remains an open question.
 
 2. **Which government he represented.** MBC says the Shanghai Provisional
    Government; the record says the Korean Commission to America and Europe.
 
-3. **Name of the medal.** MBC's English subtitles say "Order of Merit for
+3. **Name of the medal.** MBC's English subtitles said "Order of Merit for
    National Foundation, Patriotic Chapter." The award is the 애족장, the fifth
    class, officially the **National Medal**. (The fourth class, 애국장, is the
    Patriotic Medal.)
